@@ -1,0 +1,35 @@
+{
+  "name": "conan-bot",
+  "version": "0.0.1",
+  "description": "Test my bot",
+  "main": "bot.js",
+  "script": {
+    "start": "node bot.js"
+  },
+  "author": "Khoa",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-music": "^2.1.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.24.0",
+    "dotenv": "^6.0.0",
+    "nodemon": "1.18.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoatdk007/conan-bot-dnh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khoatdk007/conan-bot-dnh/issues"
+  },
+  "homepage": "https://github.com/khoatdk007/conan-bot-dnh#readme",
+  "devDependencies": {
+    "dotenv": "^6.0.0"
+  }
+}

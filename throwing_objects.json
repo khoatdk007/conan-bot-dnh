@@ -1,0 +1,22 @@
+{
+    "throwing_objects": [
+        {"name": ":hammer_pick:", "weight": 20, "price": 0, "damage": 10},
+        {"name": ":hammer:", "weight": 10, "price": 0, "damage": 10},
+        {"name": ":iphone:", "weight": 3, "price": 0, "damage": 0},
+        {"name": ":oil:", "weight": 10, "price": 0, "damage": 0},
+        {"name": ":moneybag:", "weight": 10, "price": 100, "damage": 0},
+        {"name": ":yen: :dollar: :euro: :pound:", "weight": 0, "price": 100, "damage": 0},
+        {"name": ":credit_card:", "weight": 1, "price": 100, "damage": 0},
+        {"name": ":ring:", "weight": 1, "price": 1000, "damage": 0},
+        {"name": ":gem:", "weight": 10, "price": 1000, "damage": 0},
+        {"name": ":computer:", "weight": 10, "price": 100, "damage": 0},
+        {"name": ":desktop:", "weight": 10, "price": 100, "damage": 0},
+        {"name": ":keyboard:", "weight": 9, "price": 50, "damage": 0},
+        {"name": ":tv:", "weight": 20, "price": 50, "damage": 5},
+        {"name": ":books:", "weight": 10, "price": 10, "damage": 0},
+        {"name": ":knife:", "weight": 1, "price": 0, "damage": 10},
+        {"name": ":dagger:", "weight": 1, "price": 0, "damage": 10},
+        {"name": ":syringe:", "weight": 1, "price": 0, "damage": 10},
+        {"name": ":bomb:", "weight": 1, "price": 0, "damage": 1000}
+    ]
+}

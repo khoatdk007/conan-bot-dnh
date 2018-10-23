@@ -171,7 +171,7 @@ bot.on("message", async message => {
             .addField("userinfo : ", `Hiện thông tin người dùng của bạn, nếu tag ai vào thì sẽ hiện thông tin người đó`)
             .addField("serverinfo : ", `Hiện thông tin của server hiện tại`)
             .addField("ping : ", `Chỉ là chơi`)
-            .addField("prefix : ", `Cho bạn biết prefix của Conan Bot`)
+            .addField("prefix : ", `Cho bạn biết prefix của Doraku Bot`)
             .addField("help : ", `Yêu cầu trợ giúp về bot này :grin:` )
             .addField("say : ", `Yêu cầu bot nói điều gì đó ` )
             .addField("luom : ", `Dùng để lườm ai đó :"> `)
